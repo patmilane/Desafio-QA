@@ -1,5 +1,5 @@
 function implementacao4() {
-    location = "../implem4.html";
+    location = "./implem4.html";
 }
 
 function multiplos4pin() {
