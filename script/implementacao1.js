@@ -1,5 +1,5 @@
 function implementacao1() {
-    location = ("../html/implem1.html");
+    location = ("./html/implem1.html");
 }
 
 function parOuImpar() {

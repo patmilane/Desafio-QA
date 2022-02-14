@@ -1,5 +1,5 @@
 function implementacao2() {
-    location = ("../html/implem2.html");
+    location = ("./html/implem2.html");
 }
 
 function numerosPrimos() {
