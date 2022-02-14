@@ -1,5 +1,3 @@
-//EXERCICIO 2 
-
 function implementacao2() {
     location = "./implem2.html";
 }
