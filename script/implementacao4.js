@@ -4,11 +4,9 @@ function implementacao4() {
 
 function multiplos4pin() {
 
-    let numero = 1000;
-
     let result = document.getElementById("resultado").innerHTML;
 
-    for (let i = 1; i <= numero; i++) {
+    for (let i = 1; i <= 1000; i++) {
 
         if (i % 4 == 0) {
             result += `${i}<span>pin</span>,`;
